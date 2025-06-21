@@ -1,0 +1,1 @@
+A simple and interactive memory game built with Python, where players flip over hidden color tiles to find matching pairs. The game features a 4×3 grid, randomized color assignments, and visual feedback for matched and unmatched pairs. Designed to test memory and logic with a clean, intuitive interface.
